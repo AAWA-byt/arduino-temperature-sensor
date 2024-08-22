@@ -12,6 +12,3 @@ The temperature is shown on a seven-segment display. In addition, a shift regist
 ## Structure
 
 ![2023-01-19 19_03_12-Window](https://user-images.githubusercontent.com/76434239/213525681-4589ae65-b2e0-458b-aacd-18e7abe5e4ec.png)
-
-## License
-This project is licensed under MIT License. 
